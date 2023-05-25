@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIihCYs7vrdhzXokhSdglPtKruai5vtRTEmSnmNWbRt0JGMZCDhM2i6kwZzLYxHYZcn+vFjxsRorCsUx0yKj9g==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ООП\\Lab9-University-main\\Lab9-University-main\\JSONReader\\JSONReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hello\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

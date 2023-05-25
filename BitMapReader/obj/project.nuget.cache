@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpEWcDa0p4YFE2U0R4ycvf+E1S3XO2gkydENOpq+mzSk5jrNygfzZaYlT0ah6pizwndiveOl6riyw58Y4/syPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ООП\\Lab9-University-main\\Lab9-University-main\\BitMapReader\\BitMapReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hello\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
